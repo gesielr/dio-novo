@@ -1,0 +1,19 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "João Silva",
+        "email": "joao@gmail.com",
+        "phone": "123456789",
+        "password": "Senha@123"
+      },
+      {
+        "id": 2,
+        "name": "Maria Souza",
+        "email": "maria@gmail.com",
+        "phone": "987654321",
+        "password": "Senha@1"
+      }
+    ]
+  }
+  
